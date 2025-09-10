@@ -6,7 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Folio extends Model
 {
-
     protected $fillable = [
         'name',
         'amount',
